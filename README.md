@@ -1,6 +1,6 @@
 # FYRE-Assignments
-# Programming Activities
+# Programming Activities:
 # Assignments to build programming skills.
 
-# Final Project
+# Final Project:
 # Documentation for my group's final project, and automated roof
